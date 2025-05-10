@@ -27,12 +27,12 @@ body {
 
   .img {
     position: absolute;
-    top: 10px;
+    top: 15px;
     display: block;
     width: 90%;
     height: auto;
     margin: auto;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 .caption {
