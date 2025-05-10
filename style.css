@@ -4,7 +4,7 @@
 
 body {
     background-color: hsl(212, 45%, 89%);
-    
+    font-size: 15px;
     margin: 0;
 }
 
@@ -20,15 +20,9 @@ body {
     margin: auto;
     margin-bottom: 4%;
     margin-top: 8%;
-    height: 500px; /* Full viewport height */
+    height: 500px; 
     display: flex;
-    justify-content: center; /* Centers horizontally */
-  }
-  
-  .centered-div {
-    width: 200px;
-    height: 200px;
-    margin: auto; /* Centers horizontally */
+    justify-content: center; 
   }
 
   .img {
